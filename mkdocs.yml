@@ -1,3 +1,65 @@
 site_name: Felisians Whitepaper (Draft)
 theme:
   name: material
+  features:
+    - navigation.tracking
+    - navigation.instant
+    - navigation.indexes
+    - navigation.top
+    - header.autohide
+    - search.suggest
+    - search.highlight
+  palette: #1
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+      primary: indigo
+      accent: pink
+    - scheme: slate #2
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+      primary: purple
+      accent: red
+nav:
+  - "README.md"
+  - "metazoan-chronicles.md"
+  - Felisian Race:
+      - felisian.md #Genesis, Parent-Child
+      - Classes:
+          - classes.md
+          - "t3.md"
+          - "t2.md"
+          - "t1.md"
+          - "t0.md"
+      - Rarity Layers:
+          - rarity-layers.md
+      - Minting Rounds:
+          - "nft-sale-rounds.md"
+  - Utility (Felisian):
+      - "land-and-buildables.md"
+      - "expedition.md"
+  - Game Rewards:
+      - "reward-system.md"
+      - "reward-arena.md"
+      - "reward-adventure.md"
+      - "reward-season.md"
+      - "reward-faqs.md"
+  - $Rooster Tokenomics:
+      - "utility.md"
+      - "allocation.md"
+      - "token-sale-rounds.md"
+      - "vesting-schedule.md"
+  - DeFI Ecosystem:
+      - "defi-ecosystem.md"
+      - "farming-$rooster.md"
+      - "swap.md"
+  - "technology.md"
+  - "roadmap.md"
+  - "team-and-partners.md"
+  - "smart-contracts.md"
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
