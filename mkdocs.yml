@@ -1,4 +1,4 @@
-site_name: Felisians Whitepaper (Draft)
+site_name: Metazoan Chronicles (Draft)
 theme:
   name: material
   features:
@@ -15,50 +15,48 @@ theme:
         icon: material/weather-sunny
         name: Switch to dark mode
       primary: indigo
-      accent: pink
+      accent: red
     - scheme: slate #2
       toggle:
         icon: material/weather-night
         name: Switch to light mode
       primary: purple
-      accent: red
+      accent: pink
 nav:
-  - "README.md"
-  - "metazoan-chronicles.md"
+  - README.md
+  - metazoan-chronicles.md
   - Felisian Race:
-      - felisian.md #Genesis, Parent-Child
+      - felisians/README.md #Genesis, Parent-Child
       - Classes:
-          - classes.md
-          - "t3.md"
-          - "t2.md"
-          - "t1.md"
-          - "t0.md"
+          - felisians/class/README.md
+          - felisians/class/t3.md
+          - felisians/class/t2.md
+          - felisians/class/t1.md
+          - felisians/class/t0.md
       - Rarity Layers:
-          - rarity-layers.md
+          - felisians/rarity/README.md
       - Minting Rounds:
-          - "nft-sale-rounds.md"
+          - felisians/minting/README.md #Minting Rounds
   - Utility (Felisian):
-      - "land-and-buildables.md"
-      - "expedition.md"
-  - Game Rewards:
-      - "reward-system.md"
-      - "reward-arena.md"
-      - "reward-adventure.md"
-      - "reward-season.md"
-      - "reward-faqs.md"
-  - $Rooster Tokenomics:
-      - "utility.md"
-      - "allocation.md"
-      - "token-sale-rounds.md"
-      - "vesting-schedule.md"
-  - DeFI Ecosystem:
-      - "defi-ecosystem.md"
-      - "farming-$rooster.md"
-      - "swap.md"
-  - "technology.md"
-  - "roadmap.md"
-  - "team-and-partners.md"
-  - "smart-contracts.md"
+      - nft-utility/README.md
+      - nft-utility/play-to-earn.md
+      - nft-utility/ai.md
+  - Game Mechanics:
+      - game-mechanics/README.md
+  - Tokens:
+      - tokens/README.md #Main Token
+      - tokens/game-token.md
+      - tokens/presale-token.md
+      - tokens/staking-token.md
+  - DeFI 2.0:
+      - defi/README.md
+      - defi/staking.md
+      - defi/marketplace.md
+      - defi/swap.md
+  - technology.md
+  - roadmap.md
+  - team-and-partners.md
+  - smart-contracts.md
 
 markdown_extensions:
   - attr_list
