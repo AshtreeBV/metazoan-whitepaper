@@ -37,9 +37,10 @@ nav:
           - felisians/rarity/README.md
       - Minting Rounds:
           - felisians/minting/README.md #Minting Rounds
-  - Utility (Felisian):
+  - NFT Utilities (Felisian):
       - nft-utility/README.md
       - nft-utility/play-to-earn.md
+      - nft-utility/scholarships.md
       - nft-utility/ai.md
   - Game Mechanics:
       - game-mechanics/README.md
