@@ -44,7 +44,11 @@ nav:
       - nft-utility/ai.md
   - Game Mechanics:
       - game-mechanics/README.md
-  - Tokens:
+  - MetaDhana DAO:
+      - dao/README.md
+      - dao/treasury.md
+      - dao/dao-architecture.md
+  - Tokenomics:
       - tokens/README.md #Main Token
       - tokens/game-token.md
       - tokens/presale-token.md
