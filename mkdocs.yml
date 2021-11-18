@@ -55,6 +55,7 @@ nav:
           - dao/utilities/governance.md
   - Tokenomics:
       - tokenomics/README.md
+      - tokenomics/sale-rounds.md
       - tokenomics/presale-token.md
   - technology.md
   - roadmap.md
