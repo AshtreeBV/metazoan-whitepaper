@@ -27,3 +27,9 @@ Investors are allowed to purchase any number of packages from the given outline.
 Investors that bought one of the first four (4) packages will have the option to place their name or institution on the minor-investors page.
 
 The amount that each investor bought will be kept private. Nevertheless, total raised funds will be shown publicly.
+
+## Vesting Schedule
+
+[Tokenomics Allocation - Team, Investors, etc.] pToken cumulatively vest as 10% of Token supply. This means that at 10 million Token supply, a maximum of 1,000,000 pToken can be redeemed. At 100 million Token supply, it’s 10 million pToken redeemed.
+
+All pToken holders finish vesting anywhere from (soft cap/10%) to (actual raised/10%) token supply, so this is a long-term bet. There’s a lot of upside for holders, but it is dependent on the actual growth of the protocol.
