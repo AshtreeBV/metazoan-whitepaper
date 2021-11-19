@@ -10,4 +10,6 @@ The DAO would explore other assets that provide revenue opportunities such as De
 
 The Main token is unlimited in supply with an auto mint and auto burn feature that depends on the value in the protocol’s treasury. If the value of the protocol’s treasury is at Php 1,000,000 then the token supply would be at 1,000,000 regardless of its price.
 
-If the total value of treasury decreases to Php 800,000 then 200,000 tokens would be burned and reduce circulating supply to 800,000 regardless of its price. The same is true when the values of assets in treasury increase, then total token supply will increase at the same amount.
+If the total value of treasury decreases to Php 800,000 then 200,000 tokens would be burned and reduce circulating supply to 800,000 regardless of its price. However, if the value of assets in treasury increases, token supply would not increase.
+
+The only way for token supply to increase is for stakers, gamers, media consumers, and others to mint Token and pay for its intrinsic value in the process. This method allows the protocol to back every token based on its intrinsic value.

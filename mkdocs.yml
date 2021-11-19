@@ -4,6 +4,7 @@ theme:
   features:
     - navigation.tracking
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
     - navigation.indexes
     - navigation.top
@@ -24,33 +25,13 @@ theme:
       primary: purple
       accent: pink
 nav:
+  # Homepage for MetaDhana
   - Home:
       - home/for-our-community.md
-      - home/dao.md
-      - home/metazoan.md
       - home/technology.md
       - home/roadmap.md
       - home/team-partners.md
-  - metazoan-chronicles.md
-  - Felisian Race:
-      - felisians/README.md #Genesis, Parent-Child
-      - Classes:
-          - felisians/class/README.md
-          - felisians/class/t3.md
-          - felisians/class/t2.md
-          - felisians/class/t1.md
-          - felisians/class/t0.md
-      - Rarity Layers:
-          - felisians/rarity/README.md
-      - Minting Rounds:
-          - felisians/minting/README.md #Minting Rounds
-  - NFT Utilities (Felisian):
-      - nft-utility/README.md
-      - nft-utility/play-to-earn.md
-      - nft-utility/scholarships.md
-      - nft-utility/ai.md
-  - Game Mechanics:
-      - game-mechanics/README.md
+  # MetaDhana DAO with own Roadmap
   - MetaDhana DAO:
       - dao/README.md
       - dao/treasury.md
@@ -60,12 +41,35 @@ nav:
           - dao/utilities/gaming.md
           - dao/utilities/media-consumption.md
           - dao/utilities/governance.md
-  - Tokenomics:
-      - tokenomics/README.md
-      - tokenomics/sale-rounds.md
-      - tokenomics/presale-token.md
-  - technology.md
-  - smart-contracts.md
+      - Tokenomics:
+          - dao/tokenomics/README.md
+          - dao/tokenomics/sale-rounds.md
+          - dao/tokenomics/presale-token.md
+      - dao/roadmap.md
+      - dao/smart-contracts.md
+  # MetaDhana DAO with own Roadmap (Release of next Race?)
+  - Metazoan Chronicles:
+      - metazoan/README.md
+      - Felisian Race:
+          - metazoan/felisians/README.md #Genesis, Parent-Child
+          - Classes:
+              - metazoan/felisians/class/README.md
+              - metazoan/felisians/class/t3.md
+              - metazoan/felisians/class/t2.md
+              - metazoan/felisians/class/t1.md
+              - metazoan/felisians/class/t0.md
+          - Rarity Layers:
+              - metazoan/felisians/rarity/README.md
+          - Minting Rounds:
+              - metazoan/felisians/minting/README.md #Minting Rounds
+      - NFT Utilities (Felisian):
+          - metazoan/nft-utility/README.md
+          - metazoan/nft-utility/play-to-earn.md
+          - metazoan/nft-utility/scholarships.md
+          - metazoan/nft-utility/ai.md
+      - Game Mechanics:
+          - metazoan/game-mechanics/README.md
+      - metazoan/smart-contracts.md
 
 markdown_extensions:
   - def_list
