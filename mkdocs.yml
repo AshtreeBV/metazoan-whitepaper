@@ -1,8 +1,9 @@
-site_name: Metazoan Chronicles (Draft)
+site_name: MetaDhana Studio
 theme:
   name: material
   features:
     - navigation.tracking
+    - navigation.tabs
     - navigation.instant
     - navigation.indexes
     - navigation.top
@@ -23,7 +24,13 @@ theme:
       primary: purple
       accent: pink
 nav:
-  - README.md
+  - Home:
+      - home/for-our-community.md
+      - home/dao.md
+      - home/metazoan.md
+      - home/technology.md
+      - home/roadmap.md
+      - home/team-partners.md
   - metazoan-chronicles.md
   - Felisian Race:
       - felisians/README.md #Genesis, Parent-Child
@@ -58,8 +65,6 @@ nav:
       - tokenomics/sale-rounds.md
       - tokenomics/presale-token.md
   - technology.md
-  - roadmap.md
-  - team-and-partners.md
   - smart-contracts.md
 
 markdown_extensions:
