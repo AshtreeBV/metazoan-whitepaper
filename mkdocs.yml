@@ -28,7 +28,7 @@ nav:
   # Homepage for MetaDhana
   - Home:
       - home/for-our-community.md
-      - home/technology.md
+      - Ecosystem & Technology: home/technology.md
       - home/roadmap.md
       - home/team-partners.md
   # MetaDhana DAO with own Roadmap
