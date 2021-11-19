@@ -21,13 +21,13 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-      primary: indigo
+      primary: blue
       accent: red
     - scheme: slate #2
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-      primary: purple
+      primary: black
       accent: pink
   favicon: assets/favicon.png
   logo: assets/logo.png
