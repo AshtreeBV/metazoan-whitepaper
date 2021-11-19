@@ -26,6 +26,7 @@ theme:
       accent: pink
 nav:
   # Homepage for MetaDhana
+  - README.md
   - Home:
       - home/for-our-community.md
       - Ecosystem & Technology: home/technology.md
