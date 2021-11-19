@@ -1,9 +1,12 @@
-site_name: MetaDhana Studio
+# Project information
+site_name: MetaDhana Whitepaper (draft)
+site_url: https://whitepaper.metadhana.io/overview/for-our-community/
 theme:
   name: material
   features:
     - navigation.tracking
     - navigation.tabs
+    - navigation.sections
     - navigation.tabs.sticky
     - navigation.instant
     - navigation.indexes
@@ -25,13 +28,12 @@ theme:
       primary: purple
       accent: pink
 nav:
-  # Homepage for MetaDhana
-  - README.md
-  - Home:
-      - home/for-our-community.md
-      - Ecosystem & Technology: home/technology.md
-      - home/roadmap.md
-      - home/team-partners.md
+  # Overview for MetaDhana
+  - Overview:
+      - overview/for-our-community.md
+      - Ecosystem & Technology: overview/technology.md
+      - overview/roadmap.md
+      - overview/team-partners.md
   # MetaDhana DAO with own Roadmap
   - MetaDhana DAO:
       - dao/README.md
