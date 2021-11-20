@@ -6,4 +6,4 @@ Word explanation
 
 Below is a top-level overview of the DAO's concepts
 
-<a href="../../../assets/images/DAO-draft.png" target="blank"><img src="../../../assets/images/DAO-draft.png" alt="ecosystem"></a>
+<a href="../../../assets/images/DAO-architecture.png" target="blank"><img src="../../../assets/images/DAO-architecture.png" alt="ecosystem"></a>

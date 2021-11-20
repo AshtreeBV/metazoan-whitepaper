@@ -1,8 +1,8 @@
 # Project information
-site_name: MetaDhana Whitepaper (draft)
+site_name: MetaDhana Whitepaper V1
 site_url: https://whitepaper.metadhana.io
 extra:
-    homepage: https://www.metadhana.io
+  homepage: https://www.metadhana.io
 theme:
   name: material
   features:
@@ -21,14 +21,14 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-      primary: blue
-      accent: red
+      primary: indigo
+      accent: deep orange
     - scheme: slate #2
       toggle:
         icon: material/weather-night
         name: Switch to light mode
       primary: black
-      accent: pink
+      accent: amber
   favicon: assets/favicon.png
   logo: assets/logo.png
 nav:
@@ -95,6 +95,7 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 plugins:
-    - redirects:
-        redirect_maps:
-            'index.md': 'overview/for-our-community.md'
+  - search
+  - redirects:
+      redirect_maps:
+        "index.md": "overview/for-our-community.md"
