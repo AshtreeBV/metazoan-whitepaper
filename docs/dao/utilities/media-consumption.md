@@ -1,4 +1,4 @@
-# Media Consumption (rToken and wToken)
+# Media Consumption (r|w|cTokens)
 
 A concept derived from the gaming mechanism (play-to-earn), expanding into other forms of leisure (i.e. Reading and Watching) that allows the project to target a wider audience that fancies reading and watching media content.
 
@@ -10,4 +10,8 @@ Read-to-Earn, and Watch-to-Earn, will each have their own token derivative repre
 
 \[
 1 \text{ }Token = 1 \text{ }wToken + Intrinsic \text{ }Value
+\]
+
+\[
+1 \text{ }Token = 1 \text{ }cToken + Intrinsic \text{ }Value
 \]
