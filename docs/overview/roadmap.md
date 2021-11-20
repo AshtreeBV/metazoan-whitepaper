@@ -103,6 +103,6 @@
 #### Q2
 
 - [ ] Form  partnerships with big studios for funding and production of new media content
-- [ ] Engage with local governments to blockchainify their city operations through DAOs
+- [ ] Engage with local governments to blockchainify their city operations through DAOs (continuation)
 - [ ] Preview of MMORPG game created by MetaDhana studio
-- [ ] Fund or Acquire relevant mmedia and production companies that can contribute to the ecosystem
+- [ ] Fund or Acquire relevant media and production companies that can contribute to the ecosystem
