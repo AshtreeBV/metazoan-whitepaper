@@ -25,7 +25,7 @@
 - [x] Social Media
 - [x] NFT Sales (Felisians)
 - [x] Community Building and NFT Beta Game Testing
-- [ ] Announcement of Rooster Wars 
+- [ ] Announcement of Rooster Wars
 - [ ] $TOKEN Sale Rounds
 
 ### 2022
@@ -33,11 +33,11 @@
 #### Q1
 
 - [ ] Cross-Chain Swap (BSC, ETH, Polygon, Solana)
-- [ ] Stakescription Platform 
+- [ ] Stakescription Platform
 - [ ] NFT Unlock Platform for Exclusive Content and Access
 - [ ] AI Text RPG Game Beta Launch
 - [ ] Launch of Rooster Wars
-- [ ] Launch of Blockchain Education Content Platform 
+- [ ] Launch of Blockchain Education Content Platform
 - [ ] Expand the creative team and artist partners with the aim of launching new NFTs every month
 - [ ] Creation of foundation for Creator and Artist Development for Web 3
 - [ ] Conception of Niche NFT Marketplace
@@ -46,12 +46,11 @@
 - [ ] Establishment of dedicated support teams for Game Dev, VR/AR studios, and media companies
 - [ ] Custodial Wallet Launch
 - [ ] Establish Business Development teams in different regions with the aim to launch new P2E NFT games at least every quarter
-- [ ] MetaDhana Global Grand Launch Event 
-
+- [ ] MetaDhana Global Grand Launch Event
 
 #### Q2
 
-- [ ] Integrate Stakescription with existing media platforms 
+- [ ] Integrate Stakescription with existing media platforms
 - [ ] Open offices in strategic locations across the globe
 - [ ] Integrate physical product rewards to NFT holders
 - [ ] Niche NFT Marketplace #1 Launch
@@ -62,8 +61,6 @@
 - [ ] Onboard Game Dev Studios to the Metadhana ecosystem
 - [ ] Explore the purchase of land, company shares, and other offline businesses for the benefit of the DAO
 - [ ] Conceptualize the creation of AAA MMORPG game with P2E
-
-
 
 #### Q3
 
@@ -90,19 +87,18 @@
 - [ ] Launch of MetaDhana Pocket Universe Platform for social profiles integrated with AI
 - [ ] Test the technological readiness for AI beings to exist independently in the metaverse
 
-
 ### 2023
 
 #### Q1
+
 - [ ] Purchase of a large parcel of land in the Philippines with benefits to DAO members
-- [ ] Explore Purchase of other physical revenue generating  properties and businesses in the real world for the DAO
+- [ ] Explore Purchase of other physical revenue generating properties and businesses in the real world for the DAO
 - [ ] Initial establishment of Anime/Multimedia Outsourcing township in the Philippines to create an industry
-- [ ] Engage with local governments to blockchainify their city operations through DAOs
 - [ ] Potential Preview of an independent AI metaverse
 
 #### Q2
 
-- [ ] Form  partnerships with big studios for funding and production of new media content
-- [ ] Engage with local governments to blockchainify their city operations through DAOs (continuation)
+- [ ] Form partnerships with big studios for funding and production of new media content
+- [ ] Engage with local governments to blockchainify their city operations through DAOs
 - [ ] Preview of MMORPG game created by MetaDhana studio
 - [ ] Fund or Acquire relevant media and production companies that can contribute to the ecosystem
