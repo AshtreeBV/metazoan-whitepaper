@@ -24,6 +24,7 @@
 - [x] Gameplay Demo release
 - [x] Social Media
 - [x] NFT Sales (Felisians)
+- [ ] Rooster Wars NFT Egg Sale
 - [x] Community Building and NFT Beta Game Testing
 - [ ] Announcement of Rooster Wars
 - [ ] $TOKEN Sale Rounds
