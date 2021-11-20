@@ -1,3 +1,11 @@
+<center>
+
+### Disclaimer
+
+"This Litepaper is in Version 1. **Details may still change**."
+
+</center>
+
 # Metazoan Chronicles
 
 <center>

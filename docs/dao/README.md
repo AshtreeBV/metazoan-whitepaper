@@ -1,3 +1,11 @@
+<center>
+
+### Disclaimer
+
+"This Litepaper is in Version 1. **Details may still change**."
+
+</center>
+
 # MetaDhana DAO
 
 A DeFI 2.0-inspired project that aims to solve issues of DeFI 1.0 regarding liquidity. MetaDhana DAO aims to increase liquidity like all DeFI projects, and at the same time, increase protocol’s liquidity ownership.
