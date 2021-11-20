@@ -59,6 +59,26 @@ nav:
   # MetaDhana DAO with own Roadmap (Release of next Race?)
   - Metazoan Chronicles:
       - metazoan/README.md
+      - Introduction: metazoan/introduction.md
+      - World-Building Layers:
+          - Universe Metazoa:
+              - metazoan/world-building/universe/metazoa.md
+              - metazoan/world-building/universe/metagate.md
+              - metazoan/world-building/universe/battleground.md
+              - metazoan/world-building/universe/ani-pact.md
+          - Planet Felisius:
+              - metazoan/world-building/planet/felisius.md
+              - metazoan/world-building/planet/panteraxx.md
+              - metazoan/world-building/planet/nimravia.md
+              - metazoan/world-building/planet/macharios.md
+          - Groups & Organizations:
+              - metazoan/world-building/groups/felisians.md
+              - metazoan/world-building/groups/feral.md
+              - metazoan/world-building/groups/order-felix.md
+              - metazoan/world-building/groups/tri-shoguns.md
+              - metazoan/world-building/groups/shadow-lords.md
+              - metazoan/world-building/groups/light-lords.md
+              - metazoan/world-building/groups/heralds.md
       - Felisian Race:
           - metazoan/felisians/README.md #Genesis, Parent-Child
           - Classes:
