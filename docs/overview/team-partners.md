@@ -25,6 +25,4 @@
 Artists
 To date the company has signed at Least 20 prominent comic artists and creators from the Philippines, USA, and Abu Dhabi.
 
-**D'ART Shtajio**
-
 Advanced talks for partnerships with D'ART Shtajio, a Japan-based American owned 2D animation studio creating authentic Japanese anime and Noir Caesar Entertainment, a US Indie comic company owned by former Milwaukee Buck power forward Johnny O'Bryant III. Bridging Eastern and Western ideologies by creating diverse stories using the traditional anime art style.
