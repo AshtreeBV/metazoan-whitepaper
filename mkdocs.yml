@@ -98,6 +98,7 @@ nav:
           - metazoan/nft-utility/ai.md
       - Game Mechanics:
           - metazoan/game-mechanics/README.md
+      - metazoan/roadmap.md
       - metazoan/smart-contracts.md
 
 markdown_extensions:
