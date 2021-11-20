@@ -93,6 +93,7 @@ nav:
               - metazoan/felisians/minting/README.md #Minting Rounds
       - NFT Utilities (Felisian):
           - metazoan/nft-utility/README.md
+          - metazoan/nft-utility/genesis.md
           - metazoan/nft-utility/play-to-earn.md
           - metazoan/nft-utility/scholarships.md
           - metazoan/nft-utility/ai.md
