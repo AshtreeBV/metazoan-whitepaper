@@ -1,7 +1,7 @@
 # Metazoan Chronicles
 
 <center>
-<img src="https://dummyimage.com/800x300/">
+<a href="../../../assets/images/metazoan-banner.png" target="blank"><img src="../../../assets/images/metazoan-banner.png" alt="ecosystem"></a>
 
 <i>A group of Metazoan scientists, an advanced race of Genus Animalia, discovered an ancient gate complex that can connect different worlds — the Metagate.</i>
 </br>
