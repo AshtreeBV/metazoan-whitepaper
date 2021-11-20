@@ -24,6 +24,6 @@ To create a sustainable community generated metaverse
 
 1. We provide Value
 2. We Are All Creators
-3. We inspire
+3. We Inspire
 4. We Educate
 5. We Help One Another

@@ -93,7 +93,7 @@
 
 - [ ] Purchase of a large parcel of land in the Philippines with benefits to DAO members
 - [ ] Explore Purchase of other physical revenue generating properties and businesses in the real world for the DAO
-- [ ] Initial establishment of Anime/Multimedia Outsourcing township in the Philippines to create an industry
+- [ ] Initial establishment of an Anime/Multimedia Outsourcing Township Project in the Philippines to finally create a real self sufficient Philippine Visual Media Industry backed by world-class multimedia partners and experts.
 - [ ] Potential Preview of an independent AI metaverse
 
 #### Q2
