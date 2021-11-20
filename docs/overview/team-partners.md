@@ -1,6 +1,6 @@
 # Team & Partners
 
-##Management Team
+### Management Team
 
 1. Mikhail Jon Peñalosa - Chairman/ CEO 
 A growth and digital marketing professional with over 13 years of experience working with ad agencies, ecommerce,  large businesses, luxury global brands, and startups around the globe providing data driven growth strategies for various business objectives. 
