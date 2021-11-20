@@ -8,7 +8,7 @@ This idea is made possible by having a different type of vesting schedule that w
 
 ## Presale Packages
 
-Token presale would be open to everyone and it would remain open for a specific time period. The team has a soft cap target of $(\_\_\_) funds to be raised to ensure the protocol has enough financial cushion for its launch. However, the team has no hard cap and would welcome all investments in the protocol.
+Token presale would be open to everyone and it would remain open for a specific time period. The team has a soft cap target regarding funds to be raised to ensure the protocol has enough financial cushion for its launch. However, the team has no hard cap and would welcome all investments in the protocol.
 
 Below is a table of the presale packages along with its discounted prices.
 
