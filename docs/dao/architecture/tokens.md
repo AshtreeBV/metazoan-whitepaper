@@ -8,7 +8,8 @@ The protocol would have the main token and token derivatives derived from the ma
 2. [Staking](../utilities/staking.md) Token (sToken)
 3. [Gaming/Play-to-Earn](../utilities/gaming.md) Token (gToken)
 4. [Media Consumption](../utilities/media-consumption.md) Tokens:
-<ul>
-    <li>Read-to-Earn Token (rToken)</li>
-    <li>Watch-to-Earn Token (wToken)</li>
-</ul>
+    <ul>
+        <li>Read-to-Earn Token (rToken)</li>
+        <li>Watch-to-Earn Token (wToken)</li>
+        <li>Chat-to-Earn Token (cToken)</li>
+    </ul>
