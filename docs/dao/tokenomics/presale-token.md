@@ -4,4 +4,4 @@ The presale Token, pToken, is a precursor derivative of the main Token. Just lik
 
 ## pToken Tokenomics
 
-The team has a soft cap of $(\_\_\_), but an unlimited hard cap. Given these details, the tokenomics would be based on the soft cap target of the team.
+The team has a soft cap, but an unlimited hard cap. Given these details, the tokenomics would be based on the soft cap target of the team.

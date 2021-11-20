@@ -54,8 +54,8 @@ nav:
           - dao/tokenomics/README.md
           - dao/tokenomics/sale-rounds.md
           - dao/tokenomics/presale-token.md
-      - dao/roadmap.md
-      - dao/smart-contracts.md
+      #- dao/roadmap.md
+      #- dao/smart-contracts.md
   # MetaDhana DAO with own Roadmap (Release of next Race?)
   - Metazoan Chronicles:
       - metazoan/README.md
@@ -98,7 +98,7 @@ nav:
           - metazoan/nft-utility/ai.md
       - metazoan/game-mechanics.md
       - metazoan/roadmap.md
-      - metazoan/smart-contracts.md
+      #- metazoan/smart-contracts.md
 
 markdown_extensions:
   - def_list

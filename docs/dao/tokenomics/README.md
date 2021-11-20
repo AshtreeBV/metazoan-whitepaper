@@ -21,3 +21,11 @@ Initital \text{ }Token \text{ }Supply = f(Presale,\text{ }Team)
 \]
 
 Team provided assets would come from a percentage (%) of the NFT sale rounds.
+
+## Minting
+
+Tokens will be minted when derivative tokens are exchanged for the main Token, and in order to keep each minted token backed based on its intrinsic value a fee must be paid for the minter.
+
+## Burning
+
+There will be other token burns to be implemented in the future. The current burn mechanism we have is that whenever the value of the assets in the treasury falls below the number of Circulating Token multiplied by its Intrinsic Value, then the decrease in treasury value would be the number of tokens burnt.

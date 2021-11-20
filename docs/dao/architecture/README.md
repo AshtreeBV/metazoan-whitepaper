@@ -1,7 +1,5 @@
 # Architecture
 
-Word explanation
-
 ## Overview
 
 Below is a top-level overview of the DAO's concepts
