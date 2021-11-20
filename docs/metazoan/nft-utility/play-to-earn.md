@@ -10,7 +10,7 @@ In order to achieve such feats, we will utilize DeFI 2.0 protocols’ ideas that
 
 ## How does it Work?
 
-In order to have a strong foundation, the protocol aims to increase liquidity and increase ownership of liquidity in the long run (the idea is based on Olympus DAO).
+In order to have a strong foundation, the protocol aims to increase liquidity and increase ownership of liquidity in the long run, the idea is based on <a href="https://www.olympusdao.finance/" target ="_blank">Olympus DAO</a>.
 
 The $TOKEN to be used in this metaverse would be backed with an equivalent value that would be its floor price, therefore the $TOKEN will have an intrinsic value wherein price would never fall below it. Assets that are used to back the $TOKEN will be stored in the treasury/vault of the protocol
 
