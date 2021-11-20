@@ -60,7 +60,7 @@
 - [ ] Onboard brands to the Metaverse
 - [ ] Onboard Game Dev Studios to the Metadhana ecosystem
 - [ ] Explore the purchase of land, company shares, and other offline businesses for the benefit of the DAO
-- [ ] Conceptualize the creation of AAA MMORPG game with P2E
+
 
 #### Q3
 
