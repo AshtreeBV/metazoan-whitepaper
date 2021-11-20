@@ -78,6 +78,7 @@
 - [ ] Review Readiness of the Ecosystem to migrate to Metadhana's own L2 Solution
 - [ ] Metazoan Battle Royale Game Beta Launch
 - [ ] Sneak peek of Metazoan Anime Trailer
+- [ ] Launch of Chat-to-earn messaging platform
 
 #### Q4
 
