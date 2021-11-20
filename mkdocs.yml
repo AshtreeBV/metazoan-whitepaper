@@ -62,15 +62,15 @@ nav:
       - Introduction: metazoan/introduction.md
       - World-Building Layers:
           - Universe Metazoa:
-              - metazoan/world-building/universe/metazoa.md
+              - metazoan/world-building/universe/README.md
               - metazoan/world-building/universe/metagate.md
               - metazoan/world-building/universe/battleground.md
               - metazoan/world-building/universe/ani-pact.md
           - Planet Felisius:
-              - metazoan/world-building/planet/felisius.md
+              - metazoan/world-building/planet/README.md
               - metazoan/world-building/planet/panteraxx.md
               - metazoan/world-building/planet/nimravia.md
-              - metazoan/world-building/planet/macharios.md
+              - metazoan/world-building/planet/machairos.md
           - Groups & Organizations:
               - metazoan/world-building/groups/felisians.md
               - metazoan/world-building/groups/feral.md

@@ -1,4 +1,4 @@
-# Metazoa
+# Universe: Metazoa
 
 Metazoa is a universe in a far distant galaxy. It is the only universe in the entire gamut of multiverses that has an intergalactic portal complex called Metagate that enables anyone to travel to different galaxies, universes, and planets.
 
