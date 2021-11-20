@@ -80,7 +80,6 @@ nav:
               - metazoan/world-building/groups/light-lords.md
               - metazoan/world-building/groups/heralds.md
       - Felisian Race:
-          - metazoan/felisians/README.md #Genesis, Parent-Child
           - Classes:
               - metazoan/felisians/class/README.md
               - metazoan/felisians/class/t3.md
@@ -97,8 +96,7 @@ nav:
           - metazoan/nft-utility/play-to-earn.md
           - metazoan/nft-utility/scholarships.md
           - metazoan/nft-utility/ai.md
-      - Game Mechanics:
-          - metazoan/game-mechanics/README.md
+      - metazoan/game-mechanics.md
       - metazoan/roadmap.md
       - metazoan/smart-contracts.md
 
