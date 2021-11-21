@@ -1,6 +1,6 @@
 # Presale (pToken)
 
-The presale Token, pToken, is a precursor derivative of the main Token. Just like any other token derivative, the ratio of pToken to Token is honored at 1:1. The selling price of presale Token on the public sale would be at $0.04 or Php 2.00 each.
+The presale Token, pToken, is a precursor derivative of the main Token. Just like any other token derivative, the ratio of pToken to Token is honored at 1:1. The selling price of presale Token on the public sale would be at $0.04.
 
 ## pToken Tokenomics
 

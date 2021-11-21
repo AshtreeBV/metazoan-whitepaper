@@ -22,7 +22,7 @@ Below is a table of the presale packages along with its discounted prices.
 |      $ 500,000       |    50.00%    |       0.01        |         $0.04         |            300.00%            |
 |     $ 1,000,000      |    65.00%    |       0.007       |         $0.04         |            471.43%            |
 
-Investors are allowed to purchase any number of packages from the given outline. Investors that bought packages above $100,000 (or Php 5,000,000) will be featured on our investor page.
+Investors are allowed to purchase any number of packages from the given outline. Investors that bought packages above $100,000 will be featured on our investor page.
 
 Investors that bought one of the first four (4) packages will have the option to place their name or institution on the minor-investors page.
 
