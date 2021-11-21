@@ -28,6 +28,6 @@ Assumptions:
 1. $TOKEN price = $10
 2. $TOKEN intrinsic value is = $0.02
 
-Every time a Player swaps $pTOKEN for $TOKEN, the player needs to pay an additional fee of $0.02for every $pTOKEN swapped. So the actual value that the player received is $9.98.
+Every time a Player swaps $pTOKEN for $TOKEN, the player needs to pay an additional fee of $0.02f or every $pTOKEN swapped. So the actual value that the player received is $9.98.
 
 **Note that players can earn $pTOKEN by just playing!**
