@@ -39,6 +39,7 @@
 - [ ] Cross-Chain Swap (BSC, ETH, Polygon, Solana)
 - [ ] Stakescription Platform
 - [ ] NFT Unlock Platform for Exclusive Content and Access
+- [ ] Custodial Wallet Launch
 - [ ] Establish an AI Powered Crypto and Financial News Platform
 - [ ] AI Text RPG Game Beta Launch
 - [ ] Launch of Rooster Wars
@@ -49,7 +50,6 @@
 - [ ] Release of P2E SDK for Game Devs
 - [ ] Create platform for creators to easily launch NFTs and add utility and rewards to it
 - [ ] Establishment of dedicated support teams for Game Dev, VR/AR studios, and media companies
-- [ ] Custodial Wallet Launch
 - [ ] Establish Business Development teams in different regions with the aim to launch new P2E NFT games at least every quarter
 - [ ] MetaDhana Global Grand Launch Event
 
