@@ -5,9 +5,11 @@
 #### Q2
 
 - [x] Project Ideation
+- [x] R&D of Defi + NFT concepts
 - [x] Metaverse Conceptualization
-- [x] Initial Artworks
-- [x] Partnership with existing Games
+- [x] Team Formation 
+- [x] Forging Partnerships with established companies
+- [x] Initial Development and Concept of first P2E Game
 
 #### Q3
 
@@ -22,20 +24,22 @@
 - [x] Launch Website
 - [ ] Whitepaper release
 - [x] Gameplay Demo release
-- [x] Social Media
+- [x] Social Media and PR Campaigns
 - [x] NFT Sales (Felisians)
 - [ ] Rooster Wars NFT Egg Sale
 - [x] Community Building and NFT Beta Game Testing
 - [ ] Announcement of Rooster Wars
-- [ ] $TOKEN Sale Rounds
+- [ ] Token Presale Round
 
 ### 2022
 
 #### Q1
 
+- [ ] IDO/CEX Listing of Main Token
 - [ ] Cross-Chain Swap (BSC, ETH, Polygon, Solana)
 - [ ] Stakescription Platform
 - [ ] NFT Unlock Platform for Exclusive Content and Access
+- [ ] Establish an AI Powered Crypto and Financial News Platform
 - [ ] AI Text RPG Game Beta Launch
 - [ ] Launch of Rooster Wars
 - [ ] Launch of Blockchain Education Content Platform
