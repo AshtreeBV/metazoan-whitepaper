@@ -5,9 +5,11 @@
 #### Q2
 
 - [x] Project Ideation
+- [x] R&D of Defi + NFT concepts
 - [x] Metaverse Conceptualization
-- [x] Initial Artworks
-- [x] Partnership with existing Games
+- [x] Team Formation
+- [x] Forging Partnerships with established companies
+- [x] Initial Development and Concept of first P2E Game
 
 #### Q3
 
@@ -22,20 +24,23 @@
 - [x] Launch Website
 - [ ] Whitepaper release
 - [x] Gameplay Demo release
-- [x] Social Media
+- [x] Social Media and PR Campaigns
 - [x] NFT Sales (Felisians)
 - [ ] Rooster Wars NFT Egg Sale
 - [x] Community Building and NFT Beta Game Testing
 - [ ] Announcement of Rooster Wars
-- [ ] $TOKEN Sale Rounds
+- [ ] Token Presale Round
 
 ### 2022
 
 #### Q1
 
+- [ ] IDO/CEX Listing of Main Token
 - [ ] Cross-Chain Swap (BSC, ETH, Polygon, Solana)
 - [ ] Stakescription Platform
 - [ ] NFT Unlock Platform for Exclusive Content and Access
+- [ ] Custodial Wallet Launch
+- [ ] Establish an AI Powered Crypto and Financial News Platform
 - [ ] AI Text RPG Game Beta Launch
 - [ ] Launch of Rooster Wars
 - [ ] Launch of Blockchain Education Content Platform
@@ -45,7 +50,6 @@
 - [ ] Release of P2E SDK for Game Devs
 - [ ] Create platform for creators to easily launch NFTs and add utility and rewards to it
 - [ ] Establishment of dedicated support teams for Game Dev, VR/AR studios, and media companies
-- [ ] Custodial Wallet Launch
 - [ ] Establish Business Development teams in different regions with the aim to launch new P2E NFT games at least every quarter
 - [ ] MetaDhana Global Grand Launch Event
 
@@ -61,7 +65,6 @@
 - [ ] Onboard brands to the Metaverse
 - [ ] Onboard Game Dev Studios to the Metadhana ecosystem
 - [ ] Explore the purchase of land, company shares, and other offline businesses for the benefit of the DAO
-
 
 #### Q3
 
