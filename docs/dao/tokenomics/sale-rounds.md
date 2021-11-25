@@ -6,6 +6,8 @@ Each package will be offered to presale investors with its own discounted price 
 
 ## Presale Packages
 
+The table below shows the current state of our presale packages, values may still change in the future.
+
 | Sale Packages | % Discount | pTOKEN Price | TOKEN Sale Price | Cost to Convert | % NET Gain |
 | :-----------: | :--------: | :----------: | :--------------: | :-------------: | :--------: |
 | Below $10,000 |   0.00%    |     0.02     |      $0.05       |      $0.02      |   50.00%   |
@@ -15,9 +17,9 @@ Each package will be offered to presale investors with its own discounted price 
 |   $ 100,000   |   30.00%   |    0.014     |      $0.05       |      $0.02      |  114.29%   |
 |   $ 500,000   |   50.00%   |     0.01     |      $0.05       |      $0.02      |  200.00%   |
 
-Investors are allowed to purchase any number of packages from the given outline. Investors that bought packages above or $100,000 will be featured on our investor page but the amount that each investor bought will be kept private.
+Investors are allowed to purchase any number of packages from the given outline. Major and Minor Investors will be featured on our investor page but the amount that each investor bought will be kept private.
 
-Investors that bought one of the first four (4) packages will have the option to place their name or institution on the minor-investors page. Nevertheless, total raised funds will be shown publicly.
+Nevertheless, total raised funds will be shown publicly.
 
 ## Vesting Schedule
 
