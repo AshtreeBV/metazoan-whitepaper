@@ -52,6 +52,7 @@ nav:
       - Tokenomics:
           - dao/tokenomics/README.md
           - dao/tokenomics/presale-token.md
+          - dao/tokenomics/initial-supply.md
           - dao/tokenomics/sale-rounds.md
       #- dao/roadmap.md
       #- dao/smart-contracts.md
