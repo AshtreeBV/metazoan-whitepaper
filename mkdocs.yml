@@ -41,10 +41,9 @@ nav:
   # MetaDhana DAO with own Roadmap
   - MetaDhana DAO:
       - dao/README.md
-      - DAO Architecture:
-          - dao/architecture/README.md
-          - dao/architecture/treasury.md
-          - dao/architecture/tokens.md
+      - dao/architecture.md
+      - dao/treasury.md
+      - dao/tokens.md
       - DAO Utilities:
           - dao/utilities/staking.md
           - dao/utilities/gaming.md
