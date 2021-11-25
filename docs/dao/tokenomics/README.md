@@ -10,7 +10,7 @@ To have an idea of the TOKEN’s supply we first need to understand the relation
 
 ## Minting
 
-Tokens will be minted when derivative tokens are exchanged for the main Token, and in order to keep each minted token backed based on its intrinsic value a fee must be paid for the minter.
+Tokens will be minted when derivative tokens are exchanged for the main Token. In order to keep each minted token backed, based on its intrinsic value, a fee must be paid for each new token minted. That fee will go to the treasury.
 
 ## Burning
 
