@@ -45,13 +45,14 @@ nav:
       - dao/treasury.md
       - dao/tokens.md
       - DAO Utilities:
-          - dao/utilities/staking.md
-          - dao/utilities/gaming.md
-          - dao/utilities/media-consumption.md
-          - dao/utilities/governance.md
+          - Staking: dao/utilities/staking.md
+          - Dealing: dao/utilities/dealing.md
+          - Play-to-Earn: dao/utilities/gaming.md
+          - Other Ways-to-Earn: dao/utilities/media-consumption.md
+          - Governance: dao/utilities/governance.md
       - Tokenomics:
           - dao/tokenomics/README.md
-          - dao/tokenomics/presale-token.md
+          - Presale Token: dao/tokenomics/presale-token.md
           - dao/tokenomics/initial-supply.md
           - dao/tokenomics/sale-rounds.md
       #- dao/roadmap.md

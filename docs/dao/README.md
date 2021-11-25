@@ -20,9 +20,9 @@ DeFI 2.0 is a new category for DeFI projects that addresses the current constrai
 
 ## DAO Overview
 
-The general features involve Protocol Controlled Liquidity (PCV), staking, gaming (play-to-earn), media consumption (read- and/or watch-to-earn), and governance that is guided by the Main Token along with its derivatives.
+The general features involve Protocol Controlled Liquidity (PCV), staking, gaming (play-to-earn), media consumption (read- and/or watch-to-earn), and governance that is guided by the Main TOKEN along with its derivatives.
 
-The Main Token is backed by an intrinsic value of $0.02, using assets in the [Treasury](treasury.md). The term backed means that token price will never fall below its intrinsic value (price floor) while its upside potential is unlimited (no price ceiling).
+The Main TOKEN is backed by an intrinsic value of $0.02, using assets in the [Treasury](treasury.md). The term backed means that TOKEN price will never fall below its intrinsic value (price floor) while its upside potential is unlimited (no price ceiling).
 
 ## Protocol Controlled Liquidity (PCV)
 

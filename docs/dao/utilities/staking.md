@@ -1,17 +1,25 @@
-# Staking (sToken)
+# Staking (sTOKEN)
 
-Staking is a long-term strategy that uses a derivative of the main token, sToken, that allows ‘stakers’ to earn more tokens. In order to stake, a user must lock the main Token in exchange for sToken that allows him to earn more sToken.
+Staking is a long-term strategy that uses a derivative of the main TOKEN, sTOKEN, that allows ‘stakers’ to earn more sTOKEN. In order to stake, a user must lock the main TOKEN in exchange for sTOKEN that allows him to earn more sTOKEN.
 
-The ratio of sToken to Token is always honored on a 1 to 1 basis.
+The ratio of sTOKEN to TOKEN is always honored on a 1 to 1 basis.
 
-To claim the main Token from sToken, sToken must be burnt and pay a fee equivalent to the main token’s intrinsic value, per sToken. The fee goes directly to the protocol’s treasury.
+## How to Stake?
+
+To stake, you need to lock your TOKEN in the staking contract to receive an equal amount of sTOKEN. Your sTOKEN balance rebases up automatically at the end of every epoch.
+
+## How to Claim Rewards?
+
+To claim the main TOKEN from sTOKEN, sTOKEN must be unstaked (burnt) and pay a fee to receive an equal amount of TOKEN.
+
+The fee goes directly to liquiduty.
 
 \[
-1 \text{ }Token = 1 \text{ }sToken + Intrinsic \text{ }Value
+1 \text{ }TOKEN = 1 \text{ }sTOKEN + x \text{%} Fee
 \]
 
-If the current Token price is $10, then the value gained by the staker is $9.98 upon swap. To make it attractive for users to stake tokens, a high APY would be offered.
+To make it attractive for users to stake tokens, a high APY would be offered.
 
-Paying an intrinsic fee is necessary for the protocol to maintain its claim that each Token is backed by its intrinsic value.
+Paying an intrinsic fee helps the protocol to achieve greater PCV to have enough price cushion if unwanted price dumps occur.
 
-Staking benefits both the staker by earning additional tokens, and the protocol by increasing its token supply while keeping each token backed as well as increasing PCV.
+Staking benefits both the staker by earning additional sTOKEN, and the protocol by increasing its TOKEN supply while keeping each TOKEN backed as well as increasing PCV.

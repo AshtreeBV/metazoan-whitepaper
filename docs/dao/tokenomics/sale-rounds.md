@@ -6,7 +6,7 @@ Each package will be offered to presale investors with its own discounted price 
 
 ## Presale Packages
 
-| Sale Packages | % Discount | pToken Price | Token Sale Price | Cost to Convert | % NET Gain |
+| Sale Packages | % Discount | pTOKEN Price | TOKEN Sale Price | Cost to Convert | % NET Gain |
 | :-----------: | :--------: | :----------: | :--------------: | :-------------: | :--------: |
 | Below $10,000 |   0.00%    |     0.02     |      $0.05       |      $0.02      |   50.00%   |
 |   $ 10,000    |   10.00%   |    0.018     |      $0.05       |      $0.02      |   66.67%   |
@@ -21,10 +21,10 @@ Investors that bought one of the first four (4) packages will have the option to
 
 ## Vesting Schedule
 
-Team and Investors’ pToken vesting schedule depends on the current total supply of the MAIN token. The amount vested is equal to 10% of the TOKEN supply. This means that at 10 million Token supply, a maximum of 1,000,000 pToken can be redeemed. At 100 million Token supply, it’s 10 million pToken redeemed.
+Team and Investors’ pTOKEN vesting schedule depends on the current total supply of the main TOKEN. The amount vested is equal to 10% of the TOKEN supply. This means that at 10 million TOKEN supply, a maximum of 1,000,000 pTOKEN can be redeemed. At 100 million TOKEN supply, it’s 10 million pTOKEN redeemed.
 
 <!--
-All pToken holders finish vesting anywhere from (soft cap/10%) to (actual raised/10%) token supply, so this is a long-term bet. There’s a lot of upside for holders, but it is dependent on the actual growth of the protocol.
+All pTOKEN holders finish vesting anywhere from (soft cap/10%) to (actual raised/10%) TOKEN supply, so this is a long-term bet. There’s a lot of upside for holders, but it is dependent on the actual growth of the protocol.
 -->
 
 ## Example Situation of Vesting Schedule
