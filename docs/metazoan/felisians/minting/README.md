@@ -32,9 +32,9 @@ Our public sale minting starts on **November 29, 2021**
 
 ### Presale 3 November 27, 2021
 
-- Price of X Polygon ETH
-- 24 hour sale opens at Xpm UTC+8 (Philippine Time)
-- Closes at Nov. 28, 2021 Xpm UTC+8 (Philippine Time)
+- Price of 0.077 Polygon ETH
+- 24 hour sale opens at 8pm UTC+8 (Philippine Time)
+- Closes at Nov. 28, 2021 8pm UTC+8 (Philippine Time)
 
 ### Public Sale November 29
 
