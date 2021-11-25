@@ -8,7 +8,8 @@ Contribution guideline to follow soon.
 ## Running locally
 
 ### Install dependencies
-- Install Python and Pip. 
+
+- Install Python and Pip.
 
 - Run `pip install mkdocs-material`
 

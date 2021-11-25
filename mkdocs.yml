@@ -41,19 +41,20 @@ nav:
   # MetaDhana DAO with own Roadmap
   - MetaDhana DAO:
       - dao/README.md
-      - DAO Architecture:
-          - dao/architecture/README.md
-          - dao/architecture/treasury.md
-          - dao/architecture/tokens.md
+      - dao/architecture.md
+      - dao/treasury.md
+      - dao/tokens.md
       - DAO Utilities:
-          - dao/utilities/staking.md
-          - dao/utilities/gaming.md
-          - dao/utilities/media-consumption.md
-          - dao/utilities/governance.md
+          - Staking: dao/utilities/staking.md
+          - Dealing: dao/utilities/dealing.md
+          - Play-to-Earn: dao/utilities/gaming.md
+          - Other Ways-to-Earn: dao/utilities/media-consumption.md
+          - Governance: dao/utilities/governance.md
       - Tokenomics:
           - dao/tokenomics/README.md
+          - Presale Token: dao/tokenomics/presale-token.md
+          - dao/tokenomics/initial-supply.md
           - dao/tokenomics/sale-rounds.md
-          - dao/tokenomics/presale-token.md
       #- dao/roadmap.md
       #- dao/smart-contracts.md
   # MetaDhana DAO with own Roadmap (Release of next Race?)

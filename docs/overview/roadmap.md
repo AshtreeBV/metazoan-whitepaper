@@ -7,7 +7,7 @@
 - [x] Project Ideation
 - [x] R&D of Defi + NFT concepts
 - [x] Metaverse Conceptualization
-- [x] Team Formation 
+- [x] Team Formation
 - [x] Forging Partnerships with established companies
 - [x] Initial Development and Concept of first P2E Game
 
@@ -65,7 +65,6 @@
 - [ ] Onboard brands to the Metaverse
 - [ ] Onboard Game Dev Studios to the Metadhana ecosystem
 - [ ] Explore the purchase of land, company shares, and other offline businesses for the benefit of the DAO
-
 
 #### Q3
 
