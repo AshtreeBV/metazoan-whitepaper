@@ -52,8 +52,8 @@ nav:
           - dao/utilities/governance.md
       - Tokenomics:
           - dao/tokenomics/README.md
-          - dao/tokenomics/sale-rounds.md
           - dao/tokenomics/presale-token.md
+          - dao/tokenomics/sale-rounds.md
       #- dao/roadmap.md
       #- dao/smart-contracts.md
   # MetaDhana DAO with own Roadmap (Release of next Race?)
