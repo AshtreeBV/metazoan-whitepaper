@@ -44,6 +44,8 @@ nav:
       - dao/architecture.md
       - dao/treasury.md
       - dao/tokens.md
+      - DAO Summary:
+          - dao/summary/index.md
       - DAO Utilities:
           - Staking: dao/utilities/staking.md
           - Dealing: dao/utilities/dealing.md
