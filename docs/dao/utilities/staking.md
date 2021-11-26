@@ -24,4 +24,4 @@ To make it attractive for users to stake tokens, a high APY would be offered.
 
 Paying an intrinsic fee helps the protocol have enough price cushion if unwanted price dumps occur.
 
-Staking benefits the staker by earning additional sTOKEN, the dealer by maintaining price or TOKEN at high levels, and the protocol by increasing its TOKEN supply while keeping each TOKEN backed as well as increasing PCV.
+Staking benefits the staker by earning additional sTOKEN, the dealer by maintaining price or TOKEN at high levels, and the protocol by increasing its TOKEN supply while keeping each TOKEN backed as well as increasing POL.
