@@ -44,11 +44,15 @@ nav:
       - dao/architecture.md
       - dao/treasury.md
       - dao/tokens.md
+      - DAO Summary:
+          - dao/summary/index.md
       - DAO Utilities:
           - Staking: dao/utilities/staking.md
           - Dealing: dao/utilities/dealing.md
-          - Play-to-Earn: dao/utilities/gaming.md
-          - Other Ways-to-Earn: dao/utilities/media-consumption.md
+          - NFT-Only Utilities:
+              - dao/utilities/nft-only/index.md
+              - dao/utilities/nft-only/gaming.md
+              - dao/utilities/nft-only/engagement.md
           - Governance: dao/utilities/governance.md
       - Tokenomics:
           - dao/tokenomics/README.md
