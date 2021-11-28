@@ -1,14 +1,14 @@
-# MetaDhana DAO - Simplified
+# MetaDhana DAO
 
 This section is dedicated to our community that prefers light reading to get a simple overview of the project and its key features. Some features are modified features of <a href="https://www.olympusdao.finance/" target="_blank">Olympus DAO</a> and we do not want to credit-grab.
 
 ## Key Features
 
-1. Treasury
-2. Token Derivatives
-3. Staking
-4. Dealing (Bonding)
-5. NFT Ways-to-Earn
+1. [Treasury](../treasury.md)
+2. [Token Derivatives](../tokens.md)
+3. [Staking](../utilities/staking.md)
+4. [Dealing](../utilities/dealing.md)
+5. [NFT Ways-to-Earn](../utilities/nft-only/index.md)
 
 ## Treasury
 

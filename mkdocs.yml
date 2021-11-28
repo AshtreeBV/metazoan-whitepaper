@@ -36,6 +36,7 @@ nav:
   - Overview:
       - overview/for-our-community.md
       - Ecosystem & Technology: overview/technology.md
+      - overview/value-generation.md
       - overview/roadmap.md
       - overview/team-partners.md
   # MetaDhana DAO with own Roadmap
@@ -44,7 +45,7 @@ nav:
       - dao/architecture.md
       - dao/treasury.md
       - dao/tokens.md
-      - DAO Summary:
+      - A Quick Glance:
           - dao/summary/index.md
       - DAO Utilities:
           - Staking: dao/utilities/staking.md
