@@ -1,18 +1,20 @@
 # Staking (sTOKEN)
 
-Staking is a long-term strategy that uses a derivative of the main TOKEN, sTOKEN, that allows ‘stakers’ to earn more sTOKEN. In order to stake, a user must lock the main TOKEN in exchange for sTOKEN that allows him to earn more sTOKEN.
+**A long-term, passive strategy** for participants (or “stakers”). Requires sTOKEN to stake and earns Rebase rewards. Staking APY is inversely related to the number of staked TOKEN.
 
 The ratio of sTOKEN to TOKEN is always honored on a 1 to 1 basis.
 
+## Rebase Mechanism
+
+Refers to the mechanism where your sTOKEN balance increases automatically every epoch. The increase is brought about by the number of newly minted TOKEN from the proceeds of Dealing and converting POTD to the main TOKEN.
+
 ## How to Stake?
 
-To stake, you need to lock your TOKEN in the staking contract to receive an equal amount of sTOKEN. Your sTOKEN balance rebases up automatically at the end of every epoch.
+In order to stake, users need to lock their main TOKEN in exchange for an equivalent amount of sTOKEN. The user’s sTOKEN balance increases automatically at the end of every epoch (every 12 hours).
 
-## How to Claim Rewards?
+## How to Unstake?
 
-To claim the main TOKEN from sTOKEN, sTOKEN must be unstaked (burnt) and pay a fee to receive an equal amount of TOKEN.
-
-The fee goes directly to liquiduty.
+To unstake, users burn sTOKEN and receive an equal amount of TOKEN. Unstaking makes the user not eligible for the upcoming rebase reward. A fee will be charged upon unstaking, that fee goes to the treasury and will be used to mint TOKEN supply, or increase Protocol Owned Liquidity (POL).
 
 \[
 1 \text{ }TOKEN = 1 \text{ }sTOKEN + x \text{%} Fee
@@ -20,6 +22,6 @@ The fee goes directly to liquiduty.
 
 To make it attractive for users to stake tokens, a high APY would be offered.
 
-Paying an intrinsic fee helps the protocol to achieve greater PCV to have enough price cushion if unwanted price dumps occur.
+Paying an intrinsic fee helps the protocol have enough price cushion if unwanted price dumps occur.
 
-Staking benefits both the staker by earning additional sTOKEN, and the protocol by increasing its TOKEN supply while keeping each TOKEN backed as well as increasing PCV.
+Staking benefits the staker by earning additional sTOKEN, the dealer by maintaining price or TOKEN at high levels, and the protocol by increasing its TOKEN supply while keeping each TOKEN backed as well as increasing POL.

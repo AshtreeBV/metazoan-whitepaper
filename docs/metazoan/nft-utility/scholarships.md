@@ -8,7 +8,7 @@ Below are additional details regarding the specifics of the scholarship program 
 
 - 1 Genesis NFT is allowed to have 10 Scholars
 - The cost of Scholar NFTs will be the same, and they will look alike (ERC-1155)
-- Scholar NFTs can play the game and earn $pTOKEN like the Genesis NFTs (their earning potential is less than the Genesis NFT)
+- Scholar NFTs can play the game and earn gTOKEN like the Genesis NFTs (their earning potential is less than the Genesis NFT)
 - Payout Ratio will be 50:50 from earnings of Scholar
 - Scholar NFTs can be sold on the market, but once sold, the earnings of the new owner will be 100% owned by the new owner
 - Generous Genesis NFT holders can make their scholars own their own children NFTs after certain conditions are met. (Play to Own)
