@@ -12,9 +12,7 @@ Below are four (4) general strategies or actions that each participant can choos
 To learn more about our project, head over to the following pages:
 
 - [**Architecture**](../dao/architecture.md) page, for Visuals.
-- [**A Quick Glance**](../dao/summary/index) page, for Explanations.
-
-## Source of Value
+- [**A Quick Glance**](../dao/summary/index.md) page, for Explanations.
 
 ## Token Utility
 
@@ -27,3 +25,4 @@ Utilities are:
 3. Vote and participate in the DAO
 4. Buy and Sell in the marketplace
 5. Pay for services in our Crosschain Swap
+6. Mint TOKEN using earned token derivatives
