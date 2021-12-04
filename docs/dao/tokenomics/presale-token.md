@@ -24,4 +24,4 @@ The Team and Investors share diminishes once the TOKEN supply passes the number 
 
 ## Fund Allocation
 
-**88%** of the funds raised in Presale will be used to cover the costs of each TOKEN minted at TGE backed by its Intrinsic Value, and used for Initial Liquidity. The remaining **22%** will be used to cover the cost of the project's continuous development. These numbers are not final, most likely the allocation to have more liquidity will be increased before TGE.
+**88%** of the funds raised in Presale will be used to cover the costs of each TOKEN minted at TGE backed by its Intrinsic Value, and used for Initial Liquidity. The remaining **12%** will be used to cover the cost of the project's continuous development. These numbers are not final, most likely the allocation to have more liquidity will be increased before TGE.
