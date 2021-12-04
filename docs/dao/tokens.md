@@ -2,6 +2,8 @@
 
 The protocol would have the main TOKEN and TOKEN derivatives derived from the main TOKEN. Each TOKEN derivative will have its unique use case and role to fulfill in the DAO. Each use case is only unique to a specific TOKEN and is not interchangeable wit other TOKEN derivatives.
 
+**Disclaimer**: The names and tickers for our TOKENs are already thought about, but in order to ensure that we can have the names and tickers once we launch the TOKEN, we will hide those details first.
+
 ## TOKEN Derivatives
 
 These are tokens that are derived from the protocol’s main TOKEN, honored at a 1:1 ratio with the main TOKEN.
