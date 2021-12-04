@@ -27,37 +27,35 @@ Nevertheless, total raised funds will be shown publicly.
 
 ## Vesting Schedule
 
-Team and Investors’ pTOKEN vesting schedule depends on the current total supply of the main TOKEN. The amount vested is equal to 10% of the TOKEN supply. This means that at 10 million TOKEN supply, a maximum of 1,000,000 pTOKEN can be redeemed. At 100 million TOKEN supply, it’s 10 million pTOKEN redeemed.
+Team and Investors’ pTOKEN vesting schedule depends on the current total supply of the main TOKEN. The amount vested is equal to 15% of the TOKEN supply. This means that at 10 million TOKEN supply, a maximum of 1,500,000 pTOKEN can be redeemed. At 100 million TOKEN supply, it’s 15 million pTOKEN redeemed.
 
-<!--
-All pTOKEN holders finish vesting anywhere from (soft cap/10%) to (actual raised/10%) TOKEN supply, so this is a long-term bet. There’s a lot of upside for holders, but it is dependent on the actual growth of the protocol.
--->
+All pTOKEN holders finish vesting anywhere between 4 Billion to 16 Billion TOKEN supply, depending on funds raised between the soft and hard cap values. There’s a lot of upside for holders, but it is dependent on the actual growth of the protocol.
 
 ## Example Situation of Vesting Schedule
 
 **Assumptions**
 
-- pTOKEN bought by Investor = 135,000,000
-- Amount invested by Investor = $2,000,000
+- pTOKEN bought by Investor = 300,000,000
+- Amount invested by Investor = $4,000,000
 
 **Solve**
 
 - pTOKEN share of Team is,
 
 $$
-pTOKEN_{Team} = \left(\frac{135,000,000}{3\text{%}}\right) * 7\text{%} = \mathbf{315,000,000}
+pTOKEN_{Team} = \left(\frac{300,000,000}{7\text{%}}\right) * 8\text{%} = \mathbf{342,857,143}
 $$
 
 - Total pTOKEN is
 
 $$
-pTOKEN = 135,000,000 + 315,000,000 = \mathbf{450,000,000}
+pTOKEN = 300,000,000 + 342,857,143 = \mathbf{642,857,143}
 $$
 
 - Initial TOKEN supply is
 
 $$
-TOKEN_{TGE} = \left(135,000,000 + 315,000,000\right) * 10\text{%} = \mathbf{45,000,000}
+TOKEN_{TGE} = \left(300,000,000 + 342,857,143\right) * 20\text{%} = \mathbf{128,571,429}
 $$
 
 Given the Initial TOKEN supply (TGE) here are its corresponding vesting schedule:
@@ -67,27 +65,27 @@ Given the Initial TOKEN supply (TGE) here are its corresponding vesting schedule
 |    Main TOKEN     | Current TOKEN Supply | pTOKEN to be Vested | pTOKEN to be Vested |
 | :---------------: | :------------------: | :-----------------: | :-----------------: |
 |                   |         DAO          |        Team         |      Investors      |
-|  Initial Supply   |      45,000,000      |      3,150,000      |      1,350,000      |
-|                   |      90,000,000      |      6,300,000      |      2,700,000      |
-|                   |     135,000,000      |      9,450,000      |      4,050,000      |
-|                   |     180,000,000      |     12,600,000      |      5,400,000      |
-|                   |     225,000,000      |     15,750,000      |      6,750,000      |
-|                   |     270,000,000      |     18,900,000      |      8,100,000      |
-|                   |     315,000,000      |     22,050,000      |      9,450,000      |
-|                   |     360,000,000      |     25,200,000      |     10,800,000      |
-|                   |     405,000,000      |     28,350,000      |     12,150,000      |
-|                   |     450,000,000      |     31,500,000      |     13,500,000      |
-|                   |     900,000,000      |     63,000,000      |     27,000,000      |
-|                   |    1,350,000,000     |     94,500,000      |     40,500,000      |
-|                   |    1,800,000,000     |     126,000,000     |     54,000,000      |
-|                   |    2,250,000,000     |     157,500,000     |     67,500,000      |
-|                   |    2,700,000,000     |     189,000,000     |     81,000,000      |
-|                   |    3,150,000,000     |     220,500,000     |     94,500,000      |
-|                   |    3,600,000,000     |     252,000,000     |     108,000,000     |
-|                   |    4,050,000,000     |     283,500,000     |     121,500,000     |
-| All pTOKEN Vested |    4,500,000,000     |     315,000,000     |     135,000,000     |
-|                   |    4,950,000,000     |          -          |          -          |
+|  Initial Supply   |     128,571,429      |      9,000,000      |      3,857,143      |
+|                   |     257,142,857      |     18,000,000      |      7,714,286      |
+|                   |     302,142,857      |     21,150,000      |      9,064,286      |
+|                   |     347,142,857      |     24,300,000      |     10,414,286      |
+|                   |     392,142,857      |     27,450,000      |     11,764,286      |
+|                   |     437,142,857      |     30,600,000      |     13,114,286      |
+|                   |     482,142,857      |     33,750,000      |     14,464,286      |
+|                   |     527,142,857      |     36,900,000      |     15,814,286      |
+|                   |     572,142,857      |     40,050,000      |     17,164,286      |
+|                   |     617,142,857      |     43,200,000      |     18,514,286      |
+|                   |    1,067,142,857     |     74,700,000      |     32,014,286      |
+|                   |    1,517,142,857     |     106,200,000     |     45,514,286      |
+|                   |    1,967,142,857     |     137,700,000     |     59,014,286      |
+|                   |    2,417,142,857     |     169,200,000     |     72,514,286      |
+|                   |    2,867,142,857     |     200,700,000     |     86,014,286      |
+|                   |    3,317,142,857     |     232,200,000     |     99,514,286      |
+|                   |    3,767,142,857     |     263,700,000     |     113,014,286     |
+|                   |    4,217,142,857     |     295,200,000     |     126,514,286     |
+| All pTOKEN Vested |    4,667,142,857     |     326,700,000     |     140,014,286     |
+|                   |    5,117,142,857     |          -          |          -          |
 
 </center>
 
-In our example, when the TOKEN supply reaches 4,500,000,000 then all pTOKEN can be converted to TOKEN. TOKEN supply continuous to grow after the 4.5 Billion mark, however, all pTOKEN are vested. Therefore, percentage-share of DAO increases over time, while Team and Investors shares decreases over time.
+In our example, when the TOKEN supply reaches 4,667,142,857 then all pTOKEN can be converted to TOKEN. TOKEN supply continuous to grow after the 4.7 Billion mark, however, all pTOKEN are vested. Therefore, percentage-share of DAO increases over time, while Team and Investors shares decreases over time.
