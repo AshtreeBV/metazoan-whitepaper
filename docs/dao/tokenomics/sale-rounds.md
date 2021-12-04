@@ -4,6 +4,16 @@ The team decided to have token sale packages for the presale rounds instead of t
 
 Each package will be offered to presale investors with its own discounted price and there is no limit to the amount that investors are willing to invest. This idea is made possible by having a different type of vesting schedule that would be discussed later on.
 
+## Converting pTOKEN to TOKEN
+
+To be clear, presale investors will receive Presale TOKEN (pTOKEN). This would be converted to TOKEN by swapping pTOKEN to TOKEN and paying the Intrinsic Value of each TOKEN. Please refer to the formula below
+
+\[
+1 \text{ }TOKEN = 1 \text{ }gTOKEN + Intrinsic \text{ }Value
+\]
+
+In the presale packages table, the percentage gained from investing in the presale takes into account the cost to convert pTOKEN to TOKEN, and is presented below.
+
 ## Presale Packages
 
 The table below shows the current state of our presale packages, values may still change in the future.
