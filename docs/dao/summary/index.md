@@ -1,6 +1,6 @@
 # MetaDhana DAO
 
-This section is dedicated to our community that prefers light reading to get a simple overview of the project and its key features. Some features are modified features of <a href="https://www.olympusdao.finance/" target="_blank">Olympus DAO</a> and we do not want to credit-grab.
+This section is dedicated to our community that prefers light reading to get a simple overview of the project and its key features. Some features are changed features of <a href="https://www.olympusdao.finance/" target="_blank">Olympus DAO</a> and we do not want to credit-grab.
 
 ## Key Features
 
