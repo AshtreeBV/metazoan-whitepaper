@@ -4,6 +4,12 @@
 
 The ratio of sTOKEN to TOKEN is always honored on a 1 to 1 basis.
 
+This is a modified version of Olympus DAO's <a href="https://docs.olympusdao.finance/main/basics/staking" target="_blank">staking</a> mechanism
+
+<center>
+<a href="../../../assets/charts/staking.png" target="blank"><img src="../../../assets/charts/staking.png" alt="staking diagram"></a>
+</center>
+
 ## Rebase Mechanism
 
 Refers to the mechanism where your sTOKEN balance increases automatically every epoch. The increase is brought about by the number of newly minted TOKEN from the proceeds of Dealing and converting POTD to the main TOKEN.

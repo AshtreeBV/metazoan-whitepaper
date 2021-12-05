@@ -4,6 +4,12 @@
 
 Dealing allows the MetaDhana protocol to acquire its own liquidity in the form of stablecoins and other reserve assets by selling TOKEN at a discount in exchange for these assets.
 
+This is a modified version of Olympus DAO's <a href="https://docs.olympusdao.finance/main/basics/bonding" target="_blank">bonding</a> mechanism
+
+<center>
+<a href="../../../assets/charts/dealing.png" target="blank"><img src="../../../assets/charts/dealing.png" alt="dealing diagram"></a>
+</center>
+
 ## How to Deal?
 
 In order to deal, dealers pay assets in advance in exchange for TOKEN to be given out on a later date. The dealers pay a **discounted price** for each TOKEN in exchange for having the tokens vested in n-number of days.
