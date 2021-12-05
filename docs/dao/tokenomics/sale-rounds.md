@@ -9,7 +9,7 @@ Each package will be offered to presale investors with its own discounted price 
 To be clear, presale investors will receive Presale TOKEN (pTOKEN). This would be converted to TOKEN by swapping pTOKEN to TOKEN and paying the Intrinsic Value of each TOKEN. Please refer to the formula below
 
 \[
-1 \text{ }TOKEN = 1 \text{ }gTOKEN + Intrinsic \text{ }Value
+1 \text{ }TOKEN = 1 \text{ }pTOKEN + Intrinsic \text{ }Value
 \]
 
 In the presale packages table, the percentage gained from investing in the presale takes into account the cost to convert pTOKEN to TOKEN, and is presented below.
@@ -20,14 +20,14 @@ The table below shows the current state of our presale packages, values may stil
 
 <center>
 
-| Sale Packages | % Discount | pTOKEN Price | TOKEN Sale Price | Cost to Convert | % NET Gain |
-| :-----------: | :--------: | :----------: | :--------------: | :-------------: | :--------: |
-| Below $10,000 |   0.00%    |     0.02     |      $0.05       |      $0.02      |   50.00%   |
-|   $ 10,000    |   10.00%   |    0.018     |      $0.05       |      $0.02      |   66.67%   |
-|   $ 20,000    |   15.00%   |    0.017     |      $0.05       |      $0.02      |   76.47%   |
-|   $ 50,000    |   25.00%   |    0.015     |      $0.05       |      $0.02      |  100.00%   |
-|   $ 100,000   |   30.00%   |    0.014     |      $0.05       |      $0.02      |  114.29%   |
-|   $ 500,000   |   50.00%   |     0.01     |      $0.05       |      $0.02      |  200.00%   |
+| Sale Packages | % Discount | pToken Price | Cost to Convert | Token Sale Price | % NET Gain |
+| :-----------: | :--------: | :----------: | :-------------: | :--------------: | :--------: |
+| Below $10,000 |   0.00%    |     0.02     |      $0.02      |      $0.05       |   50.00%   |
+|   $ 10,000    |   10.00%   |    0.018     |      $0.02      |      $0.05       |   66.67%   |
+|   $ 20,000    |   15.00%   |    0.017     |      $0.02      |      $0.05       |   76.47%   |
+|   $ 50,000    |   25.00%   |    0.015     |      $0.02      |      $0.05       |  100.00%   |
+|   $ 100,000   |   30.00%   |    0.014     |      $0.02      |      $0.05       |  114.29%   |
+|   $ 500,000   |   50.00%   |     0.01     |      $0.02      |      $0.05       |  200.00%   |
 
 </center>
 
