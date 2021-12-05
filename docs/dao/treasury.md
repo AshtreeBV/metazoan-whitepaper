@@ -2,8 +2,6 @@
 
 The Protocol's Treasury acts like a vault where assets are locked to back the intrinsic value of the Main TOKEN. Assets in the treasury would consist of mostly Stablecoins, some Blue-Chip NFTs, and top cryptocurrencies like Bitcoin (BTC) and Ethereum (ETH).
 
-Assets in the treasury would consist of but are not limited to, mostly Stablecoins, some Blue-Chip NFTs, and top cryptocurrencies like Bitcoin (BTC) and Ethereum (ETH).
-
 The DAO would explore other assets that provide revenue opportunities such as DeFI protocols, stocks, and real-world assets. In addition, fees gathered from DeFI products such as DEX, Marketplace, and others will directly be stored in the treasury.
 
 ### How Tokens are Backed?
