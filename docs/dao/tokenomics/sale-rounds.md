@@ -8,6 +8,8 @@ Each package will be offered to presale investors with its own discounted price 
 
 The table below shows the current state of our presale packages, values may still change in the future.
 
+<center>
+
 | Sale Packages | % Discount | pTOKEN Price | TOKEN Sale Price | Cost to Convert | % NET Gain |
 | :-----------: | :--------: | :----------: | :--------------: | :-------------: | :--------: |
 | Below $10,000 |   0.00%    |     0.02     |      $0.05       |      $0.02      |   50.00%   |
@@ -16,6 +18,8 @@ The table below shows the current state of our presale packages, values may stil
 |   $ 50,000    |   25.00%   |    0.015     |      $0.05       |      $0.02      |  100.00%   |
 |   $ 100,000   |   30.00%   |    0.014     |      $0.05       |      $0.02      |  114.29%   |
 |   $ 500,000   |   50.00%   |     0.01     |      $0.05       |      $0.02      |  200.00%   |
+
+</center>
 
 Investors are allowed to purchase any number of packages from the given outline. Major and Minor Investors will be featured on our investor page but the amount that each investor bought will be kept private.
 
@@ -58,6 +62,8 @@ $$
 
 Given the Initial TOKEN supply (TGE) here are its corresponding vesting schedule:
 
+<center>
+
 |    Main TOKEN     | Current TOKEN Supply | pTOKEN to be Vested | pTOKEN to be Vested |
 | :---------------: | :------------------: | :-----------------: | :-----------------: |
 |                   |         DAO          |        Team         |      Investors      |
@@ -81,5 +87,7 @@ Given the Initial TOKEN supply (TGE) here are its corresponding vesting schedule
 |                   |    4,050,000,000     |     283,500,000     |     121,500,000     |
 | All pTOKEN Vested |    4,500,000,000     |     315,000,000     |     135,000,000     |
 |                   |    4,950,000,000     |          -          |          -          |
+
+</center>
 
 In our example, when the TOKEN supply reaches 4,500,000,000 then all pTOKEN can be converted to TOKEN. TOKEN supply continuous to grow after the 4.5 Billion mark, however, all pTOKEN are vested. Therefore, percentage-share of DAO increases over time, while Team and Investors shares decreases over time.

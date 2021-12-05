@@ -6,11 +6,11 @@ The ratio of sTOKEN to TOKEN is always honored on a 1 to 1 basis.
 
 ## Rebase Mechanism
 
-Refers to the mechanism where your sTOKEN balance increases automatically. The increase is brought about by the number of newly minted TOKEN from the proceeds of Dealing and converting POTD to the main TOKEN.
+Refers to the mechanism where your sTOKEN balance increases automatically every epoch. The increase is brought about by the number of newly minted TOKEN from the proceeds of Dealing and converting POTD to the main TOKEN.
 
 ## How to Stake?
 
-In order to stake, users need to lock their main TOKEN in exchange for an equivalent amount of sTOKEN. The user’s sTOKEN balance increases automatically at the end of every epoch.
+In order to stake, users need to lock their main TOKEN in exchange for an equivalent amount of sTOKEN. The user’s sTOKEN balance increases automatically at the end of every epoch (every 12 hours).
 
 ## How to Unstake?
 
@@ -24,4 +24,9 @@ To make it attractive for users to stake tokens, a high APY would be offered.
 
 Paying an intrinsic fee helps the protocol have enough price cushion if unwanted price dumps occur.
 
+<<<<<<< HEAD
 Staking benefits the staker by earning additional sTOKEN, the dealer by maintaining price or TOKEN at high levels, and the protocol by increasing its TOKEN supply while keeping each TOKEN backed as well as increasing PCV.
+=======
+Staking benefits the staker by earning additional sTOKEN, the dealer by maintaining price or TOKEN at high levels, and the protocol by increasing its TOKEN supply while keeping each TOKEN backed as well as increasing POL.
+
+> > > > > > > e14e14afadc4267896bf2c1d37e38e5a4c2cbc25

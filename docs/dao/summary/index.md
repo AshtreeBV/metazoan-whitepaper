@@ -1,14 +1,14 @@
-# MetaDhana DAO - Simplified
+# MetaDhana DAO
 
 This section is dedicated to our community that prefers light reading to get a simple overview of the project and its key features. Some features are modified features of <a href="https://www.olympusdao.finance/" target="_blank">Olympus DAO</a> and we do not want to credit-grab.
 
 ## Key Features
 
-1. Treasury
-2. Token Derivatives
-3. Staking
-4. Dealing (Bonding)
-5. NFT Ways-to-Earn
+1. [Treasury](../treasury.md)
+2. [Token Derivatives](../tokens.md)
+3. [Staking](../utilities/staking.md)
+4. [Dealing](../utilities/dealing.md)
+5. [NFT Ways-to-Earn](../utilities/nft-only/index.md)
 
 ## Treasury
 
@@ -34,11 +34,11 @@ TOKEN derivatives that do not have their own market and can only be exchanged fo
 
 #### Rebase
 
-Refers to the mechanism where your sTOKEN balance increases automatically. The increase is brought about by the number of newly minted TOKEN from the proceeds of Dealing and converting POTD to the main TOKEN.
+Refers to the mechanism where your sTOKEN balance increases automatically. The increase is brought about by the number of newly minted TOKEN from the proceeds of Dealing and converting POTD to the main TOKEN. The rebase happens every epoch or every 12 hours.
 
 ##### How to Stake?
 
-In order to stake, users need to lock their main TOKEN in exchange for an equivalent amount of sTOKEN. The user’s sTOKEN balance increases automatically at the end of every epoch.
+In order to stake, users need to lock their main TOKEN in exchange for an equivalent amount of sTOKEN. The user’s sTOKEN balance increases automatically at the end of every epoch (12 hours).
 
 ##### How to Unstake?
 
@@ -46,7 +46,7 @@ To unstake, users burn sTOKEN and receive an equal amount of TOKEN. Unstaking ma
 
 ## Dealing
 
-**A short-term, active strategy** for users (or “dealers”). The dealer pays a discounted price for TOKEN that would be given in a period of n-days. The deal includes a discounted price, the number of TOKEN to be given to the dealer, and the vesting period.
+**A short-term, active strategy** for users (or “dealers”). The dealer pays a discounted price for TOKEN that would be linearly vested in a period of 5 days. The deal includes a discounted price, the number of TOKEN to be given to the dealer, and the vesting period.
 
 ## Game Theory: Prisoner’s Dilemma
 
