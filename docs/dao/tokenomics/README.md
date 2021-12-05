@@ -14,4 +14,6 @@ TOKENs will be minted when derivative TOKENs are exchanged for the main TOKEN. I
 
 ## Burning
 
-There will be other TOKEN burns to be implemented in the future. The current burn mechanism we have is that whenever the value of the assets in the treasury falls below the number of Circulating TOKEN multiplied by its Intrinsic Value, then the decrease in treasury value would be the number of TOKENs burnt.
+The current burn mechanism in place occurs whenever the value of the assets in the treasury falls below the number of Circulating TOKEN multiplied by its Intrinsic Value, then the decrease in treasury value would be the number of TOKENs burnt.
+
+There may be other TOKEN burns to be implemented in the future.
