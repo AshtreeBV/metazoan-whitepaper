@@ -8,7 +8,7 @@
 
 # MetaDhana DAO
 
-A DeFI 2.0-inspired project that aims to solve issues of DeFI 1.0 regarding liquidity. MetaDhana DAO aims to increase liquidity like all DeFI projects, and at the same time, increase protocol’s liquidity ownership.
+A DeFI 2.0-inspired project that aims to solve issues of DeFI 1.0 regarding liquidity. MetaDhana DAO aims to increase liquidity like all DeFI projects, and increase protocol’s liquidity ownership.
 
 The second goal ensures the stability of the platform’s foundation to allow existing use-cases and future ideas to be incorporated and seamlessly and built on top of a stable foundation, by reducing the risk of early liquidity providers jumping ship to the next shiny project.
 

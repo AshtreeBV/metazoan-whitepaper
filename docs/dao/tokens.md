@@ -1,6 +1,6 @@
 # Tokens
 
-The protocol would have the main TOKEN and TOKEN derivatives derived from the main TOKEN. Each TOKEN derivative will have its unique use case and role to fulfill in the DAO. Each use case is only unique to a specific TOKEN and is not interchangeable wit other TOKEN derivatives.
+The protocol would have the main TOKEN and TOKEN derivatives derived from the main TOKEN. Each TOKEN derivative will have its unique use case and role to fulfill in the DAO. Each use case is only unique to a specific TOKEN and is not interchangeable with other TOKEN derivatives.
 
 **Disclaimer**: The names and tickers for our TOKENs are already thought about, but in order to ensure that we can have the names and tickers once we launch the TOKEN, we will hide those details first.
 
@@ -26,4 +26,4 @@ These are TOKEN derivatives that have their own market and can be traded with ot
 
 ## Protocol-Only Token Derivatives (POTD)
 
-TOKEN derivatives that do not have their own market and can only be exchanged for the main TOKEN in a one-way fashion. Examples include gaming, read-, watch-, and chat-to-earn tokens represented by gTOKEN, rTOKEN, wTOKEN, and cTOKEN, respectively.
+TOKEN derivatives that do not have their own market and can only be exchanged for the main TOKEN in a one-way fashion. Examples include gaming, read, watch, and chat to-earn tokens represented by gTOKEN, rTOKEN, wTOKEN, and cTOKEN, respectively.
