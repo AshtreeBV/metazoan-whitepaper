@@ -1,5 +1,5 @@
 # Project information
-site_name: MetaDhana Litepaper V1
+site_name: Metazoan Chronicles
 site_url: https://whitepaper.metadhana.io
 extra:
   homepage: https://www.metadhana.io
@@ -7,9 +7,7 @@ theme:
   name: material
   features:
     - navigation.tracking
-    - navigation.tabs
     - navigation.sections
-    - navigation.tabs.sticky
     - navigation.instant
     - navigation.indexes
     - navigation.top
@@ -21,7 +19,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
-      primary: indigo
+      primary: black
       accent: deep orange
     - scheme: slate #2
       toggle:
@@ -32,78 +30,49 @@ theme:
   favicon: assets/favicon.png
   logo: assets/logo.png
 nav:
-  # Overview for MetaDhana
-  - Overview:
-      - overview/for-our-community.md
-      - Ecosystem & Technology: overview/technology.md
-      - overview/value-generation.md
-      - overview/roadmap.md
-      - overview/team-partners.md
-  # MetaDhana DAO with own Roadmap
-  - MetaDhana DAO:
-      - dao/README.md
-      - dao/architecture.md
-      - dao/treasury.md
-      - dao/tokens.md
-      - A Quick Glance:
-          - dao/summary/index.md
-      - DAO Utilities:
-          - Staking: dao/utilities/staking.md
-          - Dealing: dao/utilities/dealing.md
-          - NFT-Only Utilities:
-              - dao/utilities/nft-only/index.md
-              - dao/utilities/nft-only/gaming.md
-              - dao/utilities/nft-only/engagement.md
-          - Governance: dao/utilities/governance.md
-      - Tokenomics:
-          - dao/tokenomics/README.md
-          - Presale Token: dao/tokenomics/presale-token.md
-          - dao/tokenomics/initial-supply.md
-          - dao/tokenomics/sale-rounds.md
-      #- dao/roadmap.md
-      #- dao/smart-contracts.md
   # MetaDhana DAO with own Roadmap (Release of next Race?)
-  - Metazoan Chronicles:
-      - metazoan/README.md
-      - Introduction: metazoan/introduction.md
-      - World-Building Layers:
-          - Universe Metazoa:
-              - metazoan/world-building/universe/README.md
-              - metazoan/world-building/universe/metagate.md
-              - metazoan/world-building/universe/battleground.md
-              - metazoan/world-building/universe/ani-pact.md
-          - Planet Felisius:
-              - metazoan/world-building/planet/README.md
-              - metazoan/world-building/planet/panteraxx.md
-              - metazoan/world-building/planet/nimravia.md
-              - metazoan/world-building/planet/machairos.md
-          - Groups & Organizations:
-              - metazoan/world-building/groups/felisians.md
-              - metazoan/world-building/groups/feral.md
-              - metazoan/world-building/groups/order-felix.md
-              - metazoan/world-building/groups/tri-shoguns.md
-              - metazoan/world-building/groups/shadow-lords.md
-              - metazoan/world-building/groups/light-lords.md
-              - metazoan/world-building/groups/heralds.md
-      - Felisian Race:
-          - Classes:
-              - metazoan/felisians/class/README.md
-              - metazoan/felisians/class/t3.md
-              - metazoan/felisians/class/t2.md
-              - metazoan/felisians/class/t1.md
-              - metazoan/felisians/class/t0.md
-          - Rarity Layers:
-              - metazoan/felisians/rarity/README.md
-          - Minting Rounds:
-              - metazoan/felisians/minting/README.md #Minting Rounds
-      - NFT Utilities (Felisian):
-          - metazoan/nft-utility/genesis.md
-          - metazoan/nft-utility/play-to-earn.md
-          - metazoan/nft-utility/scholarships.md
-          - metazoan/nft-utility/ai.md
-      - metazoan/game-mechanics.md
-      - metazoan/roadmap.md
-      #- metazoan/smart-contracts.md
+  - README.md
+  - Introduction: introduction.md
+  - World-Building Layers:
+      - Universe Metazoa:
+          - world-building/universe/README.md
+          - world-building/universe/metagate.md
+          - world-building/universe/battleground.md
+          - world-building/universe/ani-pact.md
+      - Planet Felisius:
+          - world-building/planet/README.md
+          - world-building/planet/panteraxx.md
+          - world-building/planet/nimravia.md
+          - world-building/planet/machairos.md
+      - Groups & Organizations:
+          - world-building/groups/felisians.md
+          - world-building/groups/feral.md
+          - world-building/groups/order-felix.md
+          - world-building/groups/tri-shoguns.md
+          - world-building/groups/shadow-lords.md
+          - world-building/groups/light-lords.md
+          - world-building/groups/heralds.md
+  - Felisian Race:
+      - Classes:
+          - felisians/class/README.md
+          - felisians/class/t3.md
+          - felisians/class/t2.md
+          - felisians/class/t1.md
+          - felisians/class/t0.md
+      - Rarity Layers:
+          - felisians/rarity/README.md
+      - Minting Rounds:
+          - felisians/minting/README.md #Minting Rounds
+  - NFT Utilities (Felisian):
+      - nft-utility/genesis.md
+      - nft-utility/play-to-earn.md
+      - nft-utility/scholarships.md
+      - nft-utility/ai.md
+  - Game Mechanics:
+      - Features: game-mechanics/features.md
+  - References:
+      - references/roadmap.md
+      - references/smart-contracts.md
 
 markdown_extensions:
   - def_list
@@ -121,6 +90,3 @@ extra_javascript:
 
 plugins:
   - search
-  - redirects:
-      redirect_maps:
-        "index.md": "overview/for-our-community.md"

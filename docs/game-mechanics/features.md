@@ -1,4 +1,4 @@
-# Game Mechanics
+# Game Features
 
 An online multiplayer game where players take control of their Metazoan Chronicles NFT's in a game of survival between the escaping Omni Prisoners VS the hunting Feral Knights.
 
