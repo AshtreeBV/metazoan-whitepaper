@@ -1,8 +1,8 @@
 # Project information
 site_name: Metazoan Chronicles
-site_url: https://whitepaper.metadhana.io
+site_url: https://whitepaper.metazoan.io
 extra:
-  homepage: https://www.metadhana.io
+  homepage: https://www.metazoan.io
 theme:
   name: material
   features:
