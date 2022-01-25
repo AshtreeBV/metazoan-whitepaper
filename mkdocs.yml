@@ -35,36 +35,35 @@ nav:
       - lore/introduction.md
       - World-Building Layers:
           - Universe Metazoa:
-              - world-building/universe/README.md
-              - world-building/universe/metagate.md
-              - world-building/universe/battleground.md
-              - world-building/universe/ani-pact.md
+              - lore/world-building/universe/README.md
+              - lore/world-building/universe/metagate.md
+              - lore/world-building/universe/battleground.md
+              - lore/world-building/universe/ani-pact.md
           - Planet Felisius:
-              - world-building/planet/README.md
-              - world-building/planet/panteraxx.md
-              - world-building/planet/nimravia.md
-              - world-building/planet/machairos.md
+              - lore/world-building/planet/README.md
+              - lore/world-building/planet/panteraxx.md
+              - lore/world-building/planet/nimravia.md
+              - lore/world-building/planet/machairos.md
           - Groups & Organizations:
-              - world-building/groups/felisians.md
-              - world-building/groups/feral.md
-              - world-building/groups/order-felix.md
-              - world-building/groups/tri-shoguns.md
-              - world-building/groups/shadow-lords.md
-              - world-building/groups/light-lords.md
-              - world-building/groups/heralds.md
-  - Felisian Race:
-      - Classes:
-          - felisians/class/README.md
-          - felisians/class/t3.md
-          - felisians/class/t2.md
-          - felisians/class/t1.md
-          - felisians/class/t0.md
-      - Rarity Layers:
-          - felisians/rarity/README.md
-      - Minting Rounds:
-          - felisians/minting/README.md #Minting Rounds
-  - NFT Utilities (Felisian):
+              - lore/world-building/groups/felisians.md
+              - lore/world-building/groups/feral.md
+              - lore/world-building/groups/order-felix.md
+              - lore/world-building/groups/tri-shoguns.md
+              - lore/world-building/groups/shadow-lords.md
+              - lore/world-building/groups/light-lords.md
+              - lore/world-building/groups/heralds.md
+      - Felisian Race:
+          - Classes:
+              - lore/felisians/class/README.md
+              - lore/felisians/class/t3.md
+              - lore/felisians/class/t2.md
+              - lore/felisians/class/t1.md
+              - lore/felisians/class/t0.md
+          - Rarity Layers:
+              - lore/felisians/rarity/README.md
+  - Felisian NFTs:
       - nft-utility/genesis.md
+      - nft-utility/minting.md #Minting Rounds
       - nft-utility/play-to-earn.md
       - nft-utility/scholarships.md
       - nft-utility/ai.md
